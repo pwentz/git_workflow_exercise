@@ -1,3 +1,3 @@
 # git_workflow_exercise
 
-This is my conflict line.
+This exercise has taught me nothing about "issues"
